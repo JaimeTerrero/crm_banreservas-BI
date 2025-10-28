@@ -8,9 +8,9 @@
 
 5. En los campos correspondientes:
 
-  -Server: coloca el nombre de tu máquina local.
-
-  -Database: escribe CRM_BanReservas.
+      -Server: coloca el nombre de tu máquina local.
+    
+      -Database: escribe CRM_BanReservas.
 
 6. Presiona OK, luego Close para guardar los cambios.
 
